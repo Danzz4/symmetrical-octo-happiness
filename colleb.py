@@ -68,7 +68,7 @@ def banner():
 \x1b[0;32m----------------------------------------------------------
 \x1b[0;37m╔[ Creator  :DANZZ4YOU [\x1b[0;33mDany-Tolol\x1b[0;37m]
 \x1b[0;37m╠[ Compiler : DANZZ4YOU
-\x1b[0;37m╠[ Github   : Https://github.com/AngCyber
+\x1b[0;37m╠[ Github   : Https://github.com/Danzz4
 \x1b[0;37m╠[ Facebook : Clubfunbike [\x1b[0;33mSaya Dany\x1b[0;37m]
 \x1b[0;37m║\x1b[0;32m---------------------------------------------------------
 \x1b[0;37m╠[ Sc ini digunakan untuk crack facebook dan Instagram
